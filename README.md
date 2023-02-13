@@ -42,8 +42,8 @@
 ## ![](https://img.shields.io/badge/GitHub_Stats:-yellow?style=for-the-badge)
 
 ![](https://github-readme-stats.vercel.app/api?username=Ons-diweni&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ons-diweni&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-##  [![](https://visitcount.itsvg.in/api?id=Ons-diweni&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ons-diweni&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+## &thinsp; [![](https://visitcount.itsvg.in/api?id=Ons-diweni&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
 <br>
